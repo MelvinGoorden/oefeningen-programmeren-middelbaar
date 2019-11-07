@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefeningen_7.3_seriëlecommunicatie", "Oefeningen_7.3_seriëlecommunicatie\Oefeningen_7.3_seriëlecommunicatie.csproj", "{6011D408-1394-407D-AC18-12796720073A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6011D408-1394-407D-AC18-12796720073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6011D408-1394-407D-AC18-12796720073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6011D408-1394-407D-AC18-12796720073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6011D408-1394-407D-AC18-12796720073A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

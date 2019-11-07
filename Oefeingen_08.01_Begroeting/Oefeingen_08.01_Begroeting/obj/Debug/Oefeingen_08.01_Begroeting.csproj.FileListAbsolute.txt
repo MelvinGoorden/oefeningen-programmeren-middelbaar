@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\Oefeingen_08.01_Begroeting\Oefeingen_08.01_Begroeting\bin\Debug\Oefeingen_08.01_Begroeting.exe.config
+E:\programmeren\Oefeningen\Oefeingen_08.01_Begroeting\Oefeingen_08.01_Begroeting\bin\Debug\Oefeingen_08.01_Begroeting.exe
+E:\programmeren\Oefeningen\Oefeingen_08.01_Begroeting\Oefeingen_08.01_Begroeting\bin\Debug\Oefeingen_08.01_Begroeting.pdb
+E:\programmeren\Oefeningen\Oefeingen_08.01_Begroeting\Oefeingen_08.01_Begroeting\obj\Debug\Oefeingen_08.01_Begroeting.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\Oefeingen_08.01_Begroeting\Oefeingen_08.01_Begroeting\obj\Debug\Oefeingen_08.01_Begroeting.exe
+E:\programmeren\Oefeningen\Oefeingen_08.01_Begroeting\Oefeingen_08.01_Begroeting\obj\Debug\Oefeingen_08.01_Begroeting.pdb

@@ -1,0 +1,5 @@
+E:\ICT\Programeren\oefeningen_06.02_projectteam\oefeningen_06.02_projectteam\bin\Debug\oefeningen_06.02_projectteam.exe.config
+E:\ICT\Programeren\oefeningen_06.02_projectteam\oefeningen_06.02_projectteam\bin\Debug\oefeningen_06.02_projectteam.exe
+E:\ICT\Programeren\oefeningen_06.02_projectteam\oefeningen_06.02_projectteam\bin\Debug\oefeningen_06.02_projectteam.pdb
+E:\ICT\Programeren\oefeningen_06.02_projectteam\oefeningen_06.02_projectteam\obj\Debug\oefeningen_06.02_projectteam.exe
+E:\ICT\Programeren\oefeningen_06.02_projectteam\oefeningen_06.02_projectteam\obj\Debug\oefeningen_06.02_projectteam.pdb

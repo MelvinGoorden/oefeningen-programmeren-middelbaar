@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\Oefeningen_07.01\Oefeningen_07.01\bin\Debug\Oefeningen_07.01.exe.config
+E:\programmeren\Oefeningen\Oefeningen_07.01\Oefeningen_07.01\bin\Debug\Oefeningen_07.01.exe
+E:\programmeren\Oefeningen\Oefeningen_07.01\Oefeningen_07.01\bin\Debug\Oefeningen_07.01.pdb
+E:\programmeren\Oefeningen\Oefeningen_07.01\Oefeningen_07.01\obj\Debug\Oefeningen_07.01.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\Oefeningen_07.01\Oefeningen_07.01\obj\Debug\Oefeningen_07.01.exe
+E:\programmeren\Oefeningen\Oefeningen_07.01\Oefeningen_07.01\obj\Debug\Oefeningen_07.01.pdb

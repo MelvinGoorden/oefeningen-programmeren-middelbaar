@@ -1,0 +1,7 @@
+E:\programmeren\Oefeningen\Oefeningen_07.04_Filteren\Oefeningen_07.04_Filteren\bin\Debug\Oefeningen_07.04_Filteren.exe.config
+F:\programmeren\Oefeningen\Oefeningen_07.04_Filteren\Oefeningen_07.04_Filteren\bin\Debug\Oefeningen_07.04_Filteren.exe.config
+F:\programmeren\Oefeningen\Oefeningen_07.04_Filteren\Oefeningen_07.04_Filteren\bin\Debug\Oefeningen_07.04_Filteren.exe
+F:\programmeren\Oefeningen\Oefeningen_07.04_Filteren\Oefeningen_07.04_Filteren\bin\Debug\Oefeningen_07.04_Filteren.pdb
+F:\programmeren\Oefeningen\Oefeningen_07.04_Filteren\Oefeningen_07.04_Filteren\obj\Debug\Oefeningen_07.04_Filteren.csprojResolveAssemblyReference.cache
+F:\programmeren\Oefeningen\Oefeningen_07.04_Filteren\Oefeningen_07.04_Filteren\obj\Debug\Oefeningen_07.04_Filteren.exe
+F:\programmeren\Oefeningen\Oefeningen_07.04_Filteren\Oefeningen_07.04_Filteren\obj\Debug\Oefeningen_07.04_Filteren.pdb

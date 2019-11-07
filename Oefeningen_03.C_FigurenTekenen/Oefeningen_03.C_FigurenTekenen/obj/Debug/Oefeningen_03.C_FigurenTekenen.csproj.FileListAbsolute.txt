@@ -1,0 +1,5 @@
+E:\ICT\Programeren\Oefeningen_03.C_FigurenTekenen\Oefeningen_03.C_FigurenTekenen\bin\Debug\Oefeningen_03.C_FigurenTekenen.exe.config
+E:\ICT\Programeren\Oefeningen_03.C_FigurenTekenen\Oefeningen_03.C_FigurenTekenen\bin\Debug\Oefeningen_03.C_FigurenTekenen.exe
+E:\ICT\Programeren\Oefeningen_03.C_FigurenTekenen\Oefeningen_03.C_FigurenTekenen\bin\Debug\Oefeningen_03.C_FigurenTekenen.pdb
+E:\ICT\Programeren\Oefeningen_03.C_FigurenTekenen\Oefeningen_03.C_FigurenTekenen\obj\Debug\Oefeningen_03.C_FigurenTekenen.exe
+E:\ICT\Programeren\Oefeningen_03.C_FigurenTekenen\Oefeningen_03.C_FigurenTekenen\obj\Debug\Oefeningen_03.C_FigurenTekenen.pdb

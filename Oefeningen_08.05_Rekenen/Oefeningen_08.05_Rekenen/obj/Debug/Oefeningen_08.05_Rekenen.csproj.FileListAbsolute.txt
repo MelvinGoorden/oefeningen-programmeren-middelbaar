@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\Oefeningen_08.05_Rekenen\Oefeningen_08.05_Rekenen\bin\Debug\Oefeningen_08.05_Rekenen.exe.config
+E:\programmeren\Oefeningen\Oefeningen_08.05_Rekenen\Oefeningen_08.05_Rekenen\bin\Debug\Oefeningen_08.05_Rekenen.exe
+E:\programmeren\Oefeningen\Oefeningen_08.05_Rekenen\Oefeningen_08.05_Rekenen\bin\Debug\Oefeningen_08.05_Rekenen.pdb
+E:\programmeren\Oefeningen\Oefeningen_08.05_Rekenen\Oefeningen_08.05_Rekenen\obj\Debug\Oefeningen_08.05_Rekenen.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\Oefeningen_08.05_Rekenen\Oefeningen_08.05_Rekenen\obj\Debug\Oefeningen_08.05_Rekenen.exe
+E:\programmeren\Oefeningen\Oefeningen_08.05_Rekenen\Oefeningen_08.05_Rekenen\obj\Debug\Oefeningen_08.05_Rekenen.pdb

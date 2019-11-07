@@ -1,0 +1,5 @@
+E:\programmeren\Oefeningen\Oefeningen_07.02\Oefeningen_07.02\bin\Debug\Oefeningen_07.02.exe.config
+E:\programmeren\Oefeningen\Oefeningen_07.02\Oefeningen_07.02\bin\Debug\Oefeningen_07.02.exe
+E:\programmeren\Oefeningen\Oefeningen_07.02\Oefeningen_07.02\bin\Debug\Oefeningen_07.02.pdb
+E:\programmeren\Oefeningen\Oefeningen_07.02\Oefeningen_07.02\obj\Debug\Oefeningen_07.02.exe
+E:\programmeren\Oefeningen\Oefeningen_07.02\Oefeningen_07.02\obj\Debug\Oefeningen_07.02.pdb

@@ -1,0 +1,6 @@
+E:\2018-2019\ICT\Programmeren\Logboek\Oefening_Logboek_server\Oefening_Logboek_server\bin\Debug\Oefening_Logboek_server.exe.config
+E:\2018-2019\ICT\Programmeren\Logboek\Oefening_Logboek_server\Oefening_Logboek_server\bin\Debug\Oefening_Logboek_server.exe
+E:\2018-2019\ICT\Programmeren\Logboek\Oefening_Logboek_server\Oefening_Logboek_server\bin\Debug\Oefening_Logboek_server.pdb
+E:\2018-2019\ICT\Programmeren\Logboek\Oefening_Logboek_server\Oefening_Logboek_server\obj\Debug\Oefening_Logboek_server.csprojResolveAssemblyReference.cache
+E:\2018-2019\ICT\Programmeren\Logboek\Oefening_Logboek_server\Oefening_Logboek_server\obj\Debug\Oefening_Logboek_server.exe
+E:\2018-2019\ICT\Programmeren\Logboek\Oefening_Logboek_server\Oefening_Logboek_server\obj\Debug\Oefening_Logboek_server.pdb

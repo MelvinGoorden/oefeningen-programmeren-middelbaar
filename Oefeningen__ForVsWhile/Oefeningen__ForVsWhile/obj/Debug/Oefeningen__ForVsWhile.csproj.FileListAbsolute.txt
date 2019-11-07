@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen__ForVsWhile\Oefeningen__ForVsWhile\bin\Debug\Oefeningen__ForVsWhile.exe.config
+E:\ICT\Programeren\Oefeningen__ForVsWhile\Oefeningen__ForVsWhile\bin\Debug\Oefeningen__ForVsWhile.exe
+E:\ICT\Programeren\Oefeningen__ForVsWhile\Oefeningen__ForVsWhile\bin\Debug\Oefeningen__ForVsWhile.pdb
+E:\ICT\Programeren\Oefeningen__ForVsWhile\Oefeningen__ForVsWhile\obj\Debug\Oefeningen__ForVsWhile.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen__ForVsWhile\Oefeningen__ForVsWhile\obj\Debug\Oefeningen__ForVsWhile.exe
+E:\ICT\Programeren\Oefeningen__ForVsWhile\Oefeningen__ForVsWhile\obj\Debug\Oefeningen__ForVsWhile.pdb

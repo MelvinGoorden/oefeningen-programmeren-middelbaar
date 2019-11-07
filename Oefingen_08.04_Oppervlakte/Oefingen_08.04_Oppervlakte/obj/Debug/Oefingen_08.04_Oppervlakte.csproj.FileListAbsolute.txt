@@ -1,0 +1,5 @@
+E:\programmeren\Oefeningen\Oefingen_08.04_Oppervlakte\Oefingen_08.04_Oppervlakte\bin\Debug\Oefingen_08.04_Oppervlakte.exe.config
+E:\programmeren\Oefeningen\Oefingen_08.04_Oppervlakte\Oefingen_08.04_Oppervlakte\bin\Debug\Oefingen_08.04_Oppervlakte.exe
+E:\programmeren\Oefeningen\Oefingen_08.04_Oppervlakte\Oefingen_08.04_Oppervlakte\bin\Debug\Oefingen_08.04_Oppervlakte.pdb
+E:\programmeren\Oefeningen\Oefingen_08.04_Oppervlakte\Oefingen_08.04_Oppervlakte\obj\Debug\Oefingen_08.04_Oppervlakte.exe
+E:\programmeren\Oefeningen\Oefingen_08.04_Oppervlakte\Oefingen_08.04_Oppervlakte\obj\Debug\Oefingen_08.04_Oppervlakte.pdb

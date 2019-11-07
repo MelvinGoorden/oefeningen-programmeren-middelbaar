@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen_05.23_Cinema\Oefeningen_05.23_Cinema\bin\Debug\Oefeningen_05.23_Cinema.exe.config
+E:\ICT\Programeren\Oefeningen_05.23_Cinema\Oefeningen_05.23_Cinema\bin\Debug\Oefeningen_05.23_Cinema.exe
+E:\ICT\Programeren\Oefeningen_05.23_Cinema\Oefeningen_05.23_Cinema\bin\Debug\Oefeningen_05.23_Cinema.pdb
+E:\ICT\Programeren\Oefeningen_05.23_Cinema\Oefeningen_05.23_Cinema\obj\Debug\Oefeningen_05.23_Cinema.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_05.23_Cinema\Oefeningen_05.23_Cinema\obj\Debug\Oefeningen_05.23_Cinema.exe
+E:\ICT\Programeren\Oefeningen_05.23_Cinema\Oefeningen_05.23_Cinema\obj\Debug\Oefeningen_05.23_Cinema.pdb

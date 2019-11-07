@@ -1,0 +1,5 @@
+E:\ICT\Programeren\Oefeningen_03.B_TestConsole\Oefeningen_03.B_TestConsole\bin\Debug\Oefeningen_03.B_TestConsole.exe.config
+E:\ICT\Programeren\Oefeningen_03.B_TestConsole\Oefeningen_03.B_TestConsole\bin\Debug\Oefeningen_03.B_TestConsole.exe
+E:\ICT\Programeren\Oefeningen_03.B_TestConsole\Oefeningen_03.B_TestConsole\bin\Debug\Oefeningen_03.B_TestConsole.pdb
+E:\ICT\Programeren\Oefeningen_03.B_TestConsole\Oefeningen_03.B_TestConsole\obj\Debug\Oefeningen_03.B_TestConsole.exe
+E:\ICT\Programeren\Oefeningen_03.B_TestConsole\Oefeningen_03.B_TestConsole\obj\Debug\Oefeningen_03.B_TestConsole.pdb

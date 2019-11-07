@@ -1,0 +1,9 @@
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\bin\Debug\Oefeningen_04.22_Pythagoras.exe.config
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\bin\Debug\Oefeningen_04.22_Pythagoras.exe
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\bin\Debug\Oefeningen_04.22_Pythagoras.pdb
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\obj\Debug\Oefeningen_04.22_Pythagoras.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\obj\Debug\Oefeningen_04._22_Pythagoras.Form1.resources
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\obj\Debug\Oefeningen_04._22_Pythagoras.Properties.Resources.resources
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\obj\Debug\Oefeningen_04.22_Pythagoras.csproj.GenerateResource.Cache
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\obj\Debug\Oefeningen_04.22_Pythagoras.exe
+E:\ICT\Programeren\Oefeningen_04.22_Pythagoras\Oefeningen_04.22_Pythagoras\obj\Debug\Oefeningen_04.22_Pythagoras.pdb

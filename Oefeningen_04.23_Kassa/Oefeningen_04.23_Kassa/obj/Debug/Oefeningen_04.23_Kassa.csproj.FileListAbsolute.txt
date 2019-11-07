@@ -1,0 +1,9 @@
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\bin\Debug\Oefeningen_04.23_Kassa.exe.config
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\bin\Debug\Oefeningen_04.23_Kassa.exe
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\bin\Debug\Oefeningen_04.23_Kassa.pdb
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\obj\Debug\Oefeningen_04.23_Kassa.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\obj\Debug\Oefeningen_04._23_Kassa.Form1.resources
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\obj\Debug\Oefeningen_04._23_Kassa.Properties.Resources.resources
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\obj\Debug\Oefeningen_04.23_Kassa.csproj.GenerateResource.Cache
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\obj\Debug\Oefeningen_04.23_Kassa.exe
+E:\ICT\Programeren\Oefeningen_04.23_Kassa\Oefeningen_04.23_Kassa\obj\Debug\Oefeningen_04.23_Kassa.pdb

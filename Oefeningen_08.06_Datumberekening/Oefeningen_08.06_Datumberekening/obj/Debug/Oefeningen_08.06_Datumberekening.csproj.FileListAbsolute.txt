@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\Oefeningen_08.06_Datumberekening\Oefeningen_08.06_Datumberekening\bin\Debug\Oefeningen_08.06_Datumberekening.exe.config
+E:\programmeren\Oefeningen\Oefeningen_08.06_Datumberekening\Oefeningen_08.06_Datumberekening\bin\Debug\Oefeningen_08.06_Datumberekening.exe
+E:\programmeren\Oefeningen\Oefeningen_08.06_Datumberekening\Oefeningen_08.06_Datumberekening\bin\Debug\Oefeningen_08.06_Datumberekening.pdb
+E:\programmeren\Oefeningen\Oefeningen_08.06_Datumberekening\Oefeningen_08.06_Datumberekening\obj\Debug\Oefeningen_08.06_Datumberekening.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\Oefeningen_08.06_Datumberekening\Oefeningen_08.06_Datumberekening\obj\Debug\Oefeningen_08.06_Datumberekening.exe
+E:\programmeren\Oefeningen\Oefeningen_08.06_Datumberekening\Oefeningen_08.06_Datumberekening\obj\Debug\Oefeningen_08.06_Datumberekening.pdb

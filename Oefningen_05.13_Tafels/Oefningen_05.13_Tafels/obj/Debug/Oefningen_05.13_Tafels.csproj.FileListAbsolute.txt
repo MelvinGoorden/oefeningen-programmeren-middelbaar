@@ -1,0 +1,5 @@
+E:\ICT\Programeren\Oefningen_05.13_Tafels\Oefningen_05.13_Tafels\bin\Debug\Oefningen_05.13_Tafels.exe.config
+E:\ICT\Programeren\Oefningen_05.13_Tafels\Oefningen_05.13_Tafels\bin\Debug\Oefningen_05.13_Tafels.exe
+E:\ICT\Programeren\Oefningen_05.13_Tafels\Oefningen_05.13_Tafels\bin\Debug\Oefningen_05.13_Tafels.pdb
+E:\ICT\Programeren\Oefningen_05.13_Tafels\Oefningen_05.13_Tafels\obj\Debug\Oefningen_05.13_Tafels.exe
+E:\ICT\Programeren\Oefningen_05.13_Tafels\Oefningen_05.13_Tafels\obj\Debug\Oefningen_05.13_Tafels.pdb

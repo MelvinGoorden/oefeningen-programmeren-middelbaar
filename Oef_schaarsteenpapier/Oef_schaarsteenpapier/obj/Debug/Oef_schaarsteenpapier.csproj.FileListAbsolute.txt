@@ -1,0 +1,9 @@
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\bin\Debug\Oef_schaarsteenpapier.exe.config
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\bin\Debug\Oef_schaarsteenpapier.exe
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\bin\Debug\Oef_schaarsteenpapier.pdb
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\obj\Debug\Oef_schaarsteenpapier.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\obj\Debug\Oef_schaarsteenpapier.Form1.resources
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\obj\Debug\Oef_schaarsteenpapier.Properties.Resources.resources
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\obj\Debug\Oef_schaarsteenpapier.csproj.GenerateResource.Cache
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\obj\Debug\Oef_schaarsteenpapier.exe
+E:\ICT\Programeren\Oef_schaarsteenpapier\Oef_schaarsteenpapier\obj\Debug\Oef_schaarsteenpapier.pdb

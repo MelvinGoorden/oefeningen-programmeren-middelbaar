@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen_05.02\Oefeningen_05.02\bin\Debug\Oefeningen_05.02.exe.config
+E:\ICT\Programeren\Oefeningen_05.02\Oefeningen_05.02\bin\Debug\Oefeningen_05.02.exe
+E:\ICT\Programeren\Oefeningen_05.02\Oefeningen_05.02\bin\Debug\Oefeningen_05.02.pdb
+E:\ICT\Programeren\Oefeningen_05.02\Oefeningen_05.02\obj\Debug\Oefeningen_05.02.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_05.02\Oefeningen_05.02\obj\Debug\Oefeningen_05.02.exe
+E:\ICT\Programeren\Oefeningen_05.02\Oefeningen_05.02\obj\Debug\Oefeningen_05.02.pdb

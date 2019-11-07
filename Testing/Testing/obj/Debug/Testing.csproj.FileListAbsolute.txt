@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Testing\Testing\bin\Debug\Testing.exe.config
+E:\ICT\Programeren\Testing\Testing\bin\Debug\Testing.exe
+E:\ICT\Programeren\Testing\Testing\bin\Debug\Testing.pdb
+E:\ICT\Programeren\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Testing\Testing\obj\Debug\Testing.exe
+E:\ICT\Programeren\Testing\Testing\obj\Debug\Testing.pdb

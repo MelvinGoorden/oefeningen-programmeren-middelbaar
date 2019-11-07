@@ -1,0 +1,1 @@
+E:\ICT\Programeren\StringToCharArray\StringToCharArray\bin\Debug\StringToCharArray.exe.config

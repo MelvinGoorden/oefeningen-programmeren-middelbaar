@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\Oefeningen_06.03_Getallen\Oefeningen_06.03_Getallen\bin\Debug\Oefeningen_06.03_Getallen.exe.config
+E:\programmeren\Oefeningen\Oefeningen_06.03_Getallen\Oefeningen_06.03_Getallen\bin\Debug\Oefeningen_06.03_Getallen.exe
+E:\programmeren\Oefeningen\Oefeningen_06.03_Getallen\Oefeningen_06.03_Getallen\bin\Debug\Oefeningen_06.03_Getallen.pdb
+E:\programmeren\Oefeningen\Oefeningen_06.03_Getallen\Oefeningen_06.03_Getallen\obj\Debug\Oefeningen_06.03_Getallen.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\Oefeningen_06.03_Getallen\Oefeningen_06.03_Getallen\obj\Debug\Oefeningen_06.03_Getallen.exe
+E:\programmeren\Oefeningen\Oefeningen_06.03_Getallen\Oefeningen_06.03_Getallen\obj\Debug\Oefeningen_06.03_Getallen.pdb

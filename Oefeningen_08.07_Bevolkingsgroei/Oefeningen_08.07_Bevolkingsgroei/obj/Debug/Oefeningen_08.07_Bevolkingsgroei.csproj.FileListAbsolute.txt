@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\Oefeningen_08.07_Bevolkingsgroei\Oefeningen_08.07_Bevolkingsgroei\bin\Debug\Oefeningen_08.07_Bevolkingsgroei.exe.config
+E:\programmeren\Oefeningen\Oefeningen_08.07_Bevolkingsgroei\Oefeningen_08.07_Bevolkingsgroei\obj\Debug\Oefeningen_08.07_Bevolkingsgroei.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\Oefeningen_08.07_Bevolkingsgroei\Oefeningen_08.07_Bevolkingsgroei\bin\Debug\Oefeningen_08.07_Bevolkingsgroei.exe
+E:\programmeren\Oefeningen\Oefeningen_08.07_Bevolkingsgroei\Oefeningen_08.07_Bevolkingsgroei\bin\Debug\Oefeningen_08.07_Bevolkingsgroei.pdb
+E:\programmeren\Oefeningen\Oefeningen_08.07_Bevolkingsgroei\Oefeningen_08.07_Bevolkingsgroei\obj\Debug\Oefeningen_08.07_Bevolkingsgroei.exe
+E:\programmeren\Oefeningen\Oefeningen_08.07_Bevolkingsgroei\Oefeningen_08.07_Bevolkingsgroei\obj\Debug\Oefeningen_08.07_Bevolkingsgroei.pdb

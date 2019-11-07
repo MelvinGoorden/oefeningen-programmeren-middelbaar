@@ -1,0 +1,5 @@
+E:\ICT\Programeren\Oefeningen_05.24_Codekraker\Oefeningen_05.24_Codekraker\bin\Debug\Oefeningen_05.24_Codekraker.exe.config
+E:\ICT\Programeren\Oefeningen_05.24_Codekraker\Oefeningen_05.24_Codekraker\bin\Debug\Oefeningen_05.24_Codekraker.exe
+E:\ICT\Programeren\Oefeningen_05.24_Codekraker\Oefeningen_05.24_Codekraker\bin\Debug\Oefeningen_05.24_Codekraker.pdb
+E:\ICT\Programeren\Oefeningen_05.24_Codekraker\Oefeningen_05.24_Codekraker\obj\Debug\Oefeningen_05.24_Codekraker.exe
+E:\ICT\Programeren\Oefeningen_05.24_Codekraker\Oefeningen_05.24_Codekraker\obj\Debug\Oefeningen_05.24_Codekraker.pdb

@@ -1,0 +1,5 @@
+E:\programmeren\Oefeningen\Oefeningen_08.03_Rekenen\Oefeningen_08.03_Rekenen\bin\Debug\Oefeningen_08.03_Rekenen.exe.config
+E:\programmeren\Oefeningen\Oefeningen_08.03_Rekenen\Oefeningen_08.03_Rekenen\bin\Debug\Oefeningen_08.03_Rekenen.exe
+E:\programmeren\Oefeningen\Oefeningen_08.03_Rekenen\Oefeningen_08.03_Rekenen\bin\Debug\Oefeningen_08.03_Rekenen.pdb
+E:\programmeren\Oefeningen\Oefeningen_08.03_Rekenen\Oefeningen_08.03_Rekenen\obj\Debug\Oefeningen_08.03_Rekenen.exe
+E:\programmeren\Oefeningen\Oefeningen_08.03_Rekenen\Oefeningen_08.03_Rekenen\obj\Debug\Oefeningen_08.03_Rekenen.pdb

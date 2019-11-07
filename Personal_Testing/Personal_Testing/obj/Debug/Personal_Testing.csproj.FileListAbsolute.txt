@@ -1,0 +1,14 @@
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\bin\Debug\Personal_Testing.exe.config
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\MainWindow.g.cs
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\App.g.cs
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing_MarkupCompile.cache
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing_MarkupCompile.lref
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\bin\Debug\Personal_Testing.exe
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\bin\Debug\Personal_Testing.pdb
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\MainWindow.baml
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing.g.resources
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing.Properties.Resources.resources
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing.csproj.GenerateResource.Cache
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing.exe
+E:\ICT\Programeren\Personal_Testing\Personal_Testing\obj\Debug\Personal_Testing.pdb

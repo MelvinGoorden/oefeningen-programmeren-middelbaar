@@ -1,0 +1,5 @@
+E:\ICT\Programeren\Oefeningen_05.07_loonsberekening\Oefeningen_05.07_loonsberekening\bin\Debug\Oefeningen_05.07_loonsberekening.exe.config
+E:\ICT\Programeren\Oefeningen_05.07_loonsberekening\Oefeningen_05.07_loonsberekening\bin\Debug\Oefeningen_05.07_loonsberekening.exe
+E:\ICT\Programeren\Oefeningen_05.07_loonsberekening\Oefeningen_05.07_loonsberekening\bin\Debug\Oefeningen_05.07_loonsberekening.pdb
+E:\ICT\Programeren\Oefeningen_05.07_loonsberekening\Oefeningen_05.07_loonsberekening\obj\Debug\Oefeningen_05.07_loonsberekening.exe
+E:\ICT\Programeren\Oefeningen_05.07_loonsberekening\Oefeningen_05.07_loonsberekening\obj\Debug\Oefeningen_05.07_loonsberekening.pdb

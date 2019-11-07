@@ -1,0 +1,5 @@
+E:\ICT\Programeren\Oefeningen_05.03\Oefeningen_05.03\bin\Debug\Oefeningen_05.03.exe.config
+E:\ICT\Programeren\Oefeningen_05.03\Oefeningen_05.03\bin\Debug\Oefeningen_05.03.exe
+E:\ICT\Programeren\Oefeningen_05.03\Oefeningen_05.03\bin\Debug\Oefeningen_05.03.pdb
+E:\ICT\Programeren\Oefeningen_05.03\Oefeningen_05.03\obj\Debug\Oefeningen_05.03.exe
+E:\ICT\Programeren\Oefeningen_05.03\Oefeningen_05.03\obj\Debug\Oefeningen_05.03.pdb

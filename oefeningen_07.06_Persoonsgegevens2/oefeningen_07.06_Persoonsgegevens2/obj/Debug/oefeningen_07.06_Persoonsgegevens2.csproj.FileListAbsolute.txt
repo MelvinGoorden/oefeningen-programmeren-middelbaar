@@ -1,0 +1,9 @@
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\bin\Debug\oefeningen_07.06_Persoonsgegevens2.exe.config
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\bin\Debug\oefeningen_07.06_Persoonsgegevens2.exe
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\bin\Debug\oefeningen_07.06_Persoonsgegevens2.pdb
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\obj\Debug\oefeningen_07.06_Persoonsgegevens2.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\obj\Debug\oefeningen_07._06_Persoonsgegevens2.Properties.Resources.resources
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\obj\Debug\oefeningen_07.06_Persoonsgegevens2.csproj.GenerateResource.Cache
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\obj\Debug\oefeningen_07.06_Persoonsgegevens2.exe
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\obj\Debug\oefeningen_07.06_Persoonsgegevens2.pdb
+E:\ICT\Programeren\oefeningen_07.06_Persoonsgegevens2\oefeningen_07.06_Persoonsgegevens2\obj\Debug\oefeningen_07._06_Persoonsgegevens2.Stalker.resources

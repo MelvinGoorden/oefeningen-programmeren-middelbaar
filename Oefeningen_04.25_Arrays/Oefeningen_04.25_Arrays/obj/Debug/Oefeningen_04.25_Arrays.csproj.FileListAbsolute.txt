@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen_04.25_Arrays\Oefeningen_04.25_Arrays\bin\Debug\Oefeningen_04.25_Arrays.exe.config
+E:\ICT\Programeren\Oefeningen_04.25_Arrays\Oefeningen_04.25_Arrays\bin\Debug\Oefeningen_04.25_Arrays.exe
+E:\ICT\Programeren\Oefeningen_04.25_Arrays\Oefeningen_04.25_Arrays\bin\Debug\Oefeningen_04.25_Arrays.pdb
+E:\ICT\Programeren\Oefeningen_04.25_Arrays\Oefeningen_04.25_Arrays\obj\Debug\Oefeningen_04.25_Arrays.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_04.25_Arrays\Oefeningen_04.25_Arrays\obj\Debug\Oefeningen_04.25_Arrays.exe
+E:\ICT\Programeren\Oefeningen_04.25_Arrays\Oefeningen_04.25_Arrays\obj\Debug\Oefeningen_04.25_Arrays.pdb

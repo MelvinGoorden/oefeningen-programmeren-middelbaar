@@ -1,0 +1,9 @@
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\bin\Debug\oefeningen_logboek_cliënt.exe.config
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\bin\Debug\oefeningen_logboek_cliënt.exe
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\bin\Debug\oefeningen_logboek_cliënt.pdb
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\obj\Debug\oefeningen_logboek_cliënt.csprojResolveAssemblyReference.cache
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\obj\Debug\oefeningen_logboek_cliënt.Form1.resources
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\obj\Debug\oefeningen_logboek_cliënt.Properties.Resources.resources
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\obj\Debug\oefeningen_logboek_cliënt.csproj.GenerateResource.Cache
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\obj\Debug\oefeningen_logboek_cliënt.exe
+E:\2018-2019\ICT\Programmeren\Logboek\oefeningen_logboek_cliënt\oefeningen_logboek_cliënt\obj\Debug\oefeningen_logboek_cliënt.pdb

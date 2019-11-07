@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen_05.18_Machtentabel\Oefeningen_05.18_Machtentabel\bin\Debug\Oefeningen_05.18_Machtentabel.exe.config
+E:\ICT\Programeren\Oefeningen_05.18_Machtentabel\Oefeningen_05.18_Machtentabel\bin\Debug\Oefeningen_05.18_Machtentabel.exe
+E:\ICT\Programeren\Oefeningen_05.18_Machtentabel\Oefeningen_05.18_Machtentabel\bin\Debug\Oefeningen_05.18_Machtentabel.pdb
+E:\ICT\Programeren\Oefeningen_05.18_Machtentabel\Oefeningen_05.18_Machtentabel\obj\Debug\Oefeningen_05.18_Machtentabel.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_05.18_Machtentabel\Oefeningen_05.18_Machtentabel\obj\Debug\Oefeningen_05.18_Machtentabel.exe
+E:\ICT\Programeren\Oefeningen_05.18_Machtentabel\Oefeningen_05.18_Machtentabel\obj\Debug\Oefeningen_05.18_Machtentabel.pdb

@@ -1,0 +1,6 @@
+E:\2018-2019\ICT\Programmeren\Database\10.01_Deelnemerslijst\Oefeningen_10.01_Deelnermerslijst\Oefeningen_10.01_Deelnermerslijst\bin\Debug\Oefeningen_10.01_Deelnermerslijst.exe.config
+E:\2018-2019\ICT\Programmeren\Database\10.01_Deelnemerslijst\Oefeningen_10.01_Deelnermerslijst\Oefeningen_10.01_Deelnermerslijst\obj\Debug\Oefeningen_10.01_Deelnermerslijst.csprojResolveAssemblyReference.cache
+E:\2018-2019\ICT\Programmeren\Database\10.01_Deelnemerslijst\Oefeningen_10.01_Deelnermerslijst\Oefeningen_10.01_Deelnermerslijst\bin\Debug\Oefeningen_10.01_Deelnermerslijst.exe
+E:\2018-2019\ICT\Programmeren\Database\10.01_Deelnemerslijst\Oefeningen_10.01_Deelnermerslijst\Oefeningen_10.01_Deelnermerslijst\bin\Debug\Oefeningen_10.01_Deelnermerslijst.pdb
+E:\2018-2019\ICT\Programmeren\Database\10.01_Deelnemerslijst\Oefeningen_10.01_Deelnermerslijst\Oefeningen_10.01_Deelnermerslijst\obj\Debug\Oefeningen_10.01_Deelnermerslijst.exe
+E:\2018-2019\ICT\Programmeren\Database\10.01_Deelnemerslijst\Oefeningen_10.01_Deelnermerslijst\Oefeningen_10.01_Deelnermerslijst\obj\Debug\Oefeningen_10.01_Deelnermerslijst.pdb

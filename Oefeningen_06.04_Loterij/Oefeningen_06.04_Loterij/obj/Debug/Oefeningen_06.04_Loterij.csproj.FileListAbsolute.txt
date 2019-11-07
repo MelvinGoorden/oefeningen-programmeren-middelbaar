@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\Oefeningen_06.04_Loterij\Oefeningen_06.04_Loterij\bin\Debug\Oefeningen_06.04_Loterij.exe.config
+E:\programmeren\Oefeningen\Oefeningen_06.04_Loterij\Oefeningen_06.04_Loterij\bin\Debug\Oefeningen_06.04_Loterij.exe
+E:\programmeren\Oefeningen\Oefeningen_06.04_Loterij\Oefeningen_06.04_Loterij\bin\Debug\Oefeningen_06.04_Loterij.pdb
+E:\programmeren\Oefeningen\Oefeningen_06.04_Loterij\Oefeningen_06.04_Loterij\obj\Debug\Oefeningen_06.04_Loterij.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\Oefeningen_06.04_Loterij\Oefeningen_06.04_Loterij\obj\Debug\Oefeningen_06.04_Loterij.exe
+E:\programmeren\Oefeningen\Oefeningen_06.04_Loterij\Oefeningen_06.04_Loterij\obj\Debug\Oefeningen_06.04_Loterij.pdb

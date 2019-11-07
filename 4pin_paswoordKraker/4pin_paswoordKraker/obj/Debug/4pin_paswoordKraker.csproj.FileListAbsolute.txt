@@ -1,0 +1,6 @@
+E:\ICT\Programeren\4pin_paswoordKraker\4pin_paswoordKraker\bin\Debug\4pin_paswoordKraker.exe.config
+E:\ICT\Programeren\4pin_paswoordKraker\4pin_paswoordKraker\bin\Debug\4pin_paswoordKraker.exe
+E:\ICT\Programeren\4pin_paswoordKraker\4pin_paswoordKraker\bin\Debug\4pin_paswoordKraker.pdb
+E:\ICT\Programeren\4pin_paswoordKraker\4pin_paswoordKraker\obj\Debug\4pin_paswoordKraker.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\4pin_paswoordKraker\4pin_paswoordKraker\obj\Debug\4pin_paswoordKraker.exe
+E:\ICT\Programeren\4pin_paswoordKraker\4pin_paswoordKraker\obj\Debug\4pin_paswoordKraker.pdb

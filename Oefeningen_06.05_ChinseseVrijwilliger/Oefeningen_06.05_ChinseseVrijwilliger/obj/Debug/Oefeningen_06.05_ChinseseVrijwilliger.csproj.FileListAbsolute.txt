@@ -1,0 +1,5 @@
+E:\ICT\Programeren\Oefeningen_06.05_ChinseseVrijwilliger\Oefeningen_06.05_ChinseseVrijwilliger\bin\Debug\Oefeningen_06.05_ChinseseVrijwilliger.exe.config
+E:\ICT\Programeren\Oefeningen_06.05_ChinseseVrijwilliger\Oefeningen_06.05_ChinseseVrijwilliger\bin\Debug\Oefeningen_06.05_ChinseseVrijwilliger.exe
+E:\ICT\Programeren\Oefeningen_06.05_ChinseseVrijwilliger\Oefeningen_06.05_ChinseseVrijwilliger\bin\Debug\Oefeningen_06.05_ChinseseVrijwilliger.pdb
+E:\ICT\Programeren\Oefeningen_06.05_ChinseseVrijwilliger\Oefeningen_06.05_ChinseseVrijwilliger\obj\Debug\Oefeningen_06.05_ChinseseVrijwilliger.exe
+E:\ICT\Programeren\Oefeningen_06.05_ChinseseVrijwilliger\Oefeningen_06.05_ChinseseVrijwilliger\obj\Debug\Oefeningen_06.05_ChinseseVrijwilliger.pdb

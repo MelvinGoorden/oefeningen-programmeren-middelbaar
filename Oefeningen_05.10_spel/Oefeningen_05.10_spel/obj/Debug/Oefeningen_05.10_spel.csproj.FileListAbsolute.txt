@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen_05.10_spel\Oefeningen_05.10_spel\bin\Debug\Oefeningen_05.10_spel.exe.config
+E:\ICT\Programeren\Oefeningen_05.10_spel\Oefeningen_05.10_spel\bin\Debug\Oefeningen_05.10_spel.exe
+E:\ICT\Programeren\Oefeningen_05.10_spel\Oefeningen_05.10_spel\bin\Debug\Oefeningen_05.10_spel.pdb
+E:\ICT\Programeren\Oefeningen_05.10_spel\Oefeningen_05.10_spel\obj\Debug\Oefeningen_05.10_spel.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_05.10_spel\Oefeningen_05.10_spel\obj\Debug\Oefeningen_05.10_spel.exe
+E:\ICT\Programeren\Oefeningen_05.10_spel\Oefeningen_05.10_spel\obj\Debug\Oefeningen_05.10_spel.pdb

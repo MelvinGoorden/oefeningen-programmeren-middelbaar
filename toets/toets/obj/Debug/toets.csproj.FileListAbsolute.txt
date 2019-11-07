@@ -1,0 +1,6 @@
+E:\programmeren\Oefeningen\toets\toets\bin\Debug\toets.exe.config
+E:\programmeren\Oefeningen\toets\toets\bin\Debug\toets.exe
+E:\programmeren\Oefeningen\toets\toets\bin\Debug\toets.pdb
+E:\programmeren\Oefeningen\toets\toets\obj\Debug\toets.csprojResolveAssemblyReference.cache
+E:\programmeren\Oefeningen\toets\toets\obj\Debug\toets.exe
+E:\programmeren\Oefeningen\toets\toets\obj\Debug\toets.pdb

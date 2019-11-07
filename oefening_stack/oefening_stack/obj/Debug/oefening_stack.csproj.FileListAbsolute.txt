@@ -1,0 +1,6 @@
+E:\ICT\Programeren\oefening_stack\oefening_stack\bin\Debug\oefening_stack.exe.config
+E:\ICT\Programeren\oefening_stack\oefening_stack\bin\Debug\oefening_stack.exe
+E:\ICT\Programeren\oefening_stack\oefening_stack\bin\Debug\oefening_stack.pdb
+E:\ICT\Programeren\oefening_stack\oefening_stack\obj\Debug\oefening_stack.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\oefening_stack\oefening_stack\obj\Debug\oefening_stack.exe
+E:\ICT\Programeren\oefening_stack\oefening_stack\obj\Debug\oefening_stack.pdb

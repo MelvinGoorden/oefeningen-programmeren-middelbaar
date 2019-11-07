@@ -1,0 +1,5 @@
+E:\programmeren\Oefeningen\Oefeningen_08.08_Machtentabel\Oefeningen_08.08_Machtentabel\bin\Debug\Oefeningen_08.08_Machtentabel.exe.config
+E:\programmeren\Oefeningen\Oefeningen_08.08_Machtentabel\Oefeningen_08.08_Machtentabel\bin\Debug\Oefeningen_08.08_Machtentabel.exe
+E:\programmeren\Oefeningen\Oefeningen_08.08_Machtentabel\Oefeningen_08.08_Machtentabel\bin\Debug\Oefeningen_08.08_Machtentabel.pdb
+E:\programmeren\Oefeningen\Oefeningen_08.08_Machtentabel\Oefeningen_08.08_Machtentabel\obj\Debug\Oefeningen_08.08_Machtentabel.exe
+E:\programmeren\Oefeningen\Oefeningen_08.08_Machtentabel\Oefeningen_08.08_Machtentabel\obj\Debug\Oefeningen_08.08_Machtentabel.pdb

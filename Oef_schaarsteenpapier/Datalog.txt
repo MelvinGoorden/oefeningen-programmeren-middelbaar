@@ -1,0 +1,4 @@
+gelijkspel: Schaar VS Schaar
+gelijkspel: Steen VS Steen
+gewonnen: Papier VS Steen
+gewonnen: Schaar VS Papier

@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen_05.06_WetVanOhm\Oefeningen_05.06_WetVanOhm\bin\Debug\Oefeningen_05.06_WetVanOhm.exe.config
+E:\ICT\Programeren\Oefeningen_05.06_WetVanOhm\Oefeningen_05.06_WetVanOhm\bin\Debug\Oefeningen_05.06_WetVanOhm.exe
+E:\ICT\Programeren\Oefeningen_05.06_WetVanOhm\Oefeningen_05.06_WetVanOhm\bin\Debug\Oefeningen_05.06_WetVanOhm.pdb
+E:\ICT\Programeren\Oefeningen_05.06_WetVanOhm\Oefeningen_05.06_WetVanOhm\obj\Debug\Oefeningen_05.06_WetVanOhm.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_05.06_WetVanOhm\Oefeningen_05.06_WetVanOhm\obj\Debug\Oefeningen_05.06_WetVanOhm.exe
+E:\ICT\Programeren\Oefeningen_05.06_WetVanOhm\Oefeningen_05.06_WetVanOhm\obj\Debug\Oefeningen_05.06_WetVanOhm.pdb

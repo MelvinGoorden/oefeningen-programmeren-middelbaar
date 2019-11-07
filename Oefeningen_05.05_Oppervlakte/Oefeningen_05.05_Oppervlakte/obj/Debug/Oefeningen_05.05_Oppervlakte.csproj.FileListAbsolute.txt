@@ -1,0 +1,6 @@
+E:\ICT\Programeren\Oefeningen_05.05_Oppervlakte\Oefeningen_05.05_Oppervlakte\bin\Debug\Oefeningen_05.05_Oppervlakte.exe.config
+E:\ICT\Programeren\Oefeningen_05.05_Oppervlakte\Oefeningen_05.05_Oppervlakte\bin\Debug\Oefeningen_05.05_Oppervlakte.exe
+E:\ICT\Programeren\Oefeningen_05.05_Oppervlakte\Oefeningen_05.05_Oppervlakte\bin\Debug\Oefeningen_05.05_Oppervlakte.pdb
+E:\ICT\Programeren\Oefeningen_05.05_Oppervlakte\Oefeningen_05.05_Oppervlakte\obj\Debug\Oefeningen_05.05_Oppervlakte.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\Oefeningen_05.05_Oppervlakte\Oefeningen_05.05_Oppervlakte\obj\Debug\Oefeningen_05.05_Oppervlakte.exe
+E:\ICT\Programeren\Oefeningen_05.05_Oppervlakte\Oefeningen_05.05_Oppervlakte\obj\Debug\Oefeningen_05.05_Oppervlakte.pdb

@@ -1,0 +1,6 @@
+E:\ICT\Programeren\20171009_Goorden\20171009_Goorden\bin\Debug\20171009_Goorden.exe.config
+E:\ICT\Programeren\20171009_Goorden\20171009_Goorden\bin\Debug\20171009_Goorden.exe
+E:\ICT\Programeren\20171009_Goorden\20171009_Goorden\bin\Debug\20171009_Goorden.pdb
+E:\ICT\Programeren\20171009_Goorden\20171009_Goorden\obj\Debug\20171009_Goorden.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\20171009_Goorden\20171009_Goorden\obj\Debug\20171009_Goorden.exe
+E:\ICT\Programeren\20171009_Goorden\20171009_Goorden\obj\Debug\20171009_Goorden.pdb

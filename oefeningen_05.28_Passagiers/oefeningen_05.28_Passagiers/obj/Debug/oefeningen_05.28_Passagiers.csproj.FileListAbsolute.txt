@@ -1,0 +1,6 @@
+E:\ICT\Programeren\oefeningen_05.28_Passagiers\oefeningen_05.28_Passagiers\bin\Debug\oefeningen_05.28_Passagiers.exe.config
+E:\ICT\Programeren\oefeningen_05.28_Passagiers\oefeningen_05.28_Passagiers\bin\Debug\oefeningen_05.28_Passagiers.exe
+E:\ICT\Programeren\oefeningen_05.28_Passagiers\oefeningen_05.28_Passagiers\bin\Debug\oefeningen_05.28_Passagiers.pdb
+E:\ICT\Programeren\oefeningen_05.28_Passagiers\oefeningen_05.28_Passagiers\obj\Debug\oefeningen_05.28_Passagiers.csprojResolveAssemblyReference.cache
+E:\ICT\Programeren\oefeningen_05.28_Passagiers\oefeningen_05.28_Passagiers\obj\Debug\oefeningen_05.28_Passagiers.exe
+E:\ICT\Programeren\oefeningen_05.28_Passagiers\oefeningen_05.28_Passagiers\obj\Debug\oefeningen_05.28_Passagiers.pdb
